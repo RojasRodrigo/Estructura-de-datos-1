@@ -1,12 +1,5 @@
 # 📚 Implementación de una TAD Pila en C# .NET
 
-## 🧾 Asignatura
-Estructura de Datos I
-
-## 👨‍🎓 Autor
-Estudiante de Ingeniería de Sistemas
-
----
 
 ## 📌 1. OBJETIVO
 
