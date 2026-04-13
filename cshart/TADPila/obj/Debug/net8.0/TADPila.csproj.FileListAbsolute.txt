@@ -1,0 +1,15 @@
+/Users/rodrigorojas/Desktop/primerParcial/cshart/TADPila/obj/Debug/net8.0/TADPila.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rodrigorojas/Desktop/primerParcial/cshart/TADPila/obj/Debug/net8.0/TADPila.AssemblyInfoInputs.cache
+/Users/rodrigorojas/Desktop/primerParcial/cshart/TADPila/obj/Debug/net8.0/TADPila.AssemblyInfo.cs
+/Users/rodrigorojas/Desktop/primerParcial/cshart/TADPila/obj/Debug/net8.0/TADPila.csproj.CoreCompileInputs.cache
+/Users/rodrigorojas/Desktop/primerParcial/cshart/TADPila/obj/Debug/net8.0/TADPila.sourcelink.json
+/Users/rodrigorojas/Desktop/primerParcial/cshart/TADPila/bin/Debug/net8.0/TADPila
+/Users/rodrigorojas/Desktop/primerParcial/cshart/TADPila/bin/Debug/net8.0/TADPila.deps.json
+/Users/rodrigorojas/Desktop/primerParcial/cshart/TADPila/bin/Debug/net8.0/TADPila.runtimeconfig.json
+/Users/rodrigorojas/Desktop/primerParcial/cshart/TADPila/bin/Debug/net8.0/TADPila.dll
+/Users/rodrigorojas/Desktop/primerParcial/cshart/TADPila/bin/Debug/net8.0/TADPila.pdb
+/Users/rodrigorojas/Desktop/primerParcial/cshart/TADPila/obj/Debug/net8.0/TADPila.dll
+/Users/rodrigorojas/Desktop/primerParcial/cshart/TADPila/obj/Debug/net8.0/refint/TADPila.dll
+/Users/rodrigorojas/Desktop/primerParcial/cshart/TADPila/obj/Debug/net8.0/TADPila.pdb
+/Users/rodrigorojas/Desktop/primerParcial/cshart/TADPila/obj/Debug/net8.0/TADPila.genruntimeconfig.cache
+/Users/rodrigorojas/Desktop/primerParcial/cshart/TADPila/obj/Debug/net8.0/ref/TADPila.dll
