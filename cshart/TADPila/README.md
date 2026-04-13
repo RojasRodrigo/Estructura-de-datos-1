@@ -101,11 +101,8 @@ Elementos de la pila:
 
 ## 📸 7. EVIDENCIA DE EJECUCIÓN
 
-Agrega aquí tu captura:
-
-```markdown
 ![Resultado del programa](img/resultadocshart.png)
-```
+
 
 ---
 
@@ -118,13 +115,3 @@ La implementación de la TAD Pila permite comprender:
 - El control mediante índices (variable `tope`)  
 - La aplicación de validaciones (pila llena/vacía)  
 
----
-
-## ✅ 9. CONCLUSIONES
-
-- Se logró implementar correctamente una TAD Pila en C# .NET.  
-- Se aplicaron conceptos fundamentales de estructuras de datos.  
-- Se comprobó el funcionamiento mediante pruebas en consola.  
-- La pila es una estructura eficiente para problemas donde se requiere orden inverso de procesamiento.  
-
----
